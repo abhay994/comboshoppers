@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1037144746177",
+    "firebase_url": "https://notification-d3f89.firebaseio.com",
+    "project_id": "notification-d3f89",
+    "storage_bucket": "notification-d3f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037144746177:android:37a9084a76f568e9",
+        "android_client_info": {
+          "package_name": "comboshopper.com.ar.comboshoppers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037144746177-2p285ug2uhn8h50btprpq37mr0ihvh9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO_wQHPA1RWugup9fdV-n3zoxnvDIVPyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
